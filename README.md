@@ -1,5 +1,7 @@
 # NestJS ELK Stack Logging Project
 
+![ELK Kibana](elk_kibana.png)
+
 ## What's Happening?
 
 This project demonstrates centralized logging using the ELK stack:
